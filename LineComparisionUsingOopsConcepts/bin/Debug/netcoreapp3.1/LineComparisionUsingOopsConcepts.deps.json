@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LineComparisionUsingOopsConcepts/1.0.0": {
+        "runtime": {
+          "LineComparisionUsingOopsConcepts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LineComparisionUsingOopsConcepts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
